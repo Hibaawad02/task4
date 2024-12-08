@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.section{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1200px;
+    row-gap: 50px;
+    column-gap:10px;
+    justify-content: center;
+    margin: auto;
+    
+
+}
+.product{
+    width: 32%;
+}
+
+img{
+    width: 100%;
+}
